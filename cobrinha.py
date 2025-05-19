@@ -22,7 +22,7 @@ pygame.display.set_caption('Jogo da Cobrinha')
 relogio = pygame.time.Clock()
 
 # Tamanho do bloco da cobrinha e velocidade
-tamanho_bloco = 20
+tamanho_bloco = 21
 velocidade_cobra = 15
 
 # Fontes para mensagens
